@@ -26,7 +26,7 @@
 	<hr/>
     <link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
     
-        <div id="logindiv">
+        <div id="login-div">
             <form name="login" action="login_process.php" method="post" class="leftdiv" onsubmit="return validateLogin()">
 			<br/><br/><br/><br/>
             <table border="1">
